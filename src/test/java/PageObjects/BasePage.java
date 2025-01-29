@@ -14,4 +14,7 @@ public class BasePage {
 		PageFactory.initElements(driver, this);
 		
 	}
+	public void Test() {
+		System.out.println("test");
+	}
 }
