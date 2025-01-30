@@ -1788,3 +1788,315 @@
 2025-01-29 18:06:09,615 - 14 Sep Automation Framework -INFO - ***** Test Case Completed: TC02_LoginTest *****
 2025-01-29 18:06:09,642 - 14 Sep Automation Framework -INFO - Closing the browser
 2025-01-29 18:06:09,748 - 14 Sep Automation Framework -INFO - Browser closed successfully
+2025-01-29 23:58:11,332 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-29 23:58:11,336 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-29 23:58:11,336 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-29 23:58:26,167 - 14 Sep Automation Framework -INFO - Browser launched successfully
+2025-01-29 23:58:26,168 - 14 Sep Automation Framework -INFO - Maximizing browser window
+2025-01-29 23:58:26,510 - 14 Sep Automation Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-29 23:58:26,521 - 14 Sep Automation Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-29 23:58:28,778 - 14 Sep Automation Framework -INFO - Application opened successfully
+2025-01-29 23:58:28,849 - 14 Sep Automation Framework -INFO - ***** Starting Test Case: TC01_AccountRegistrationTest *****
+2025-01-29 23:58:28,850 - 14 Sep Automation Framework -INFO - Navigating to the Home Page.
+2025-01-29 23:58:28,916 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'.
+2025-01-29 23:58:29,537 - 14 Sep Automation Framework -INFO - Clicking on 'Register'.
+2025-01-29 23:58:30,802 - 14 Sep Automation Framework -INFO - Filling out registration details.
+2025-01-29 23:58:30,808 - 14 Sep Automation Framework -INFO - Generated random string: TcKhe
+2025-01-29 23:58:30,809 - 14 Sep Automation Framework -INFO - Generated First Name: tckhe
+2025-01-29 23:58:31,695 - 14 Sep Automation Framework -INFO - Generated random string: qpABD
+2025-01-29 23:58:31,703 - 14 Sep Automation Framework -INFO - Generated Last Name: QPABD
+2025-01-29 23:58:31,922 - 14 Sep Automation Framework -INFO - Generated random alphanumeric string: obXJ857
+2025-01-29 23:58:31,923 - 14 Sep Automation Framework -INFO - Generated Email: obXJ857@gmail.com
+2025-01-29 23:58:32,093 - 14 Sep Automation Framework -INFO - Generated random number: 7784211433
+2025-01-29 23:58:32,095 - 14 Sep Automation Framework -INFO - Generated Phone Number: 7784211433
+2025-01-29 23:58:32,167 - 14 Sep Automation Framework -INFO - Generated random alphanumeric string: rAmC163
+2025-01-29 23:58:32,168 - 14 Sep Automation Framework -INFO - Generated Password: [hidden]
+2025-01-29 23:58:32,352 - 14 Sep Automation Framework -INFO - Accepting privacy policy.
+2025-01-29 23:58:32,772 - 14 Sep Automation Framework -INFO - Clicking on 'Continue' to complete registration.
+2025-01-29 23:58:33,699 - 14 Sep Automation Framework -INFO - Validating expected confirmation message.
+2025-01-29 23:58:33,755 - 14 Sep Automation Framework -INFO - Confirmation Message Retrieved: Your Account Has Been Created!
+2025-01-29 23:58:33,755 - 14 Sep Automation Framework -INFO - Account registration successful.
+2025-01-29 23:58:33,758 - 14 Sep Automation Framework -INFO - ***** Finished Test Case: TC01_AccountRegistrationTest *****
+2025-01-29 23:58:33,776 - 14 Sep Automation Framework -INFO - Closing the browser
+2025-01-29 23:58:33,922 - 14 Sep Automation Framework -INFO - Browser closed successfully
+2025-01-29 23:58:33,935 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-29 23:58:33,935 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-29 23:58:33,936 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-29 23:58:42,487 - 14 Sep Automation Framework -INFO - Browser launched successfully
+2025-01-29 23:58:42,488 - 14 Sep Automation Framework -INFO - Maximizing browser window
+2025-01-29 23:58:42,842 - 14 Sep Automation Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-29 23:58:42,847 - 14 Sep Automation Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-29 23:58:45,440 - 14 Sep Automation Framework -INFO - Application opened successfully
+2025-01-29 23:58:45,452 - 14 Sep Automation Framework -INFO - ***** Starting Test Case: TC02_LoginTest *****
+2025-01-29 23:58:45,453 - 14 Sep Automation Framework -INFO - Navigating to the Home Page.
+2025-01-29 23:58:45,456 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'.
+2025-01-29 23:58:46,059 - 14 Sep Automation Framework -INFO - Clicking on 'Login'.
+2025-01-29 23:58:46,838 - 14 Sep Automation Framework -INFO - Navigating to the Login Page.
+2025-01-29 23:58:46,847 - 14 Sep Automation Framework -INFO - Entering email address: Python123@gmail.com
+2025-01-29 23:58:47,403 - 14 Sep Automation Framework -INFO - Entering password: [hidden]
+2025-01-29 23:58:47,757 - 14 Sep Automation Framework -INFO - Clicking on 'Login' button.
+2025-01-29 23:58:48,971 - 14 Sep Automation Framework -INFO - Navigating to the 'My Account' page.
+2025-01-29 23:58:48,974 - 14 Sep Automation Framework -INFO - Validating if 'My Account' page is displayed.
+2025-01-29 23:58:49,051 - 14 Sep Automation Framework -INFO - 'My Account' page validated successfully. Logging out.
+2025-01-29 23:58:49,402 - 14 Sep Automation Framework -INFO - ***** Test Case Completed: TC02_LoginTest *****
+2025-01-29 23:58:49,414 - 14 Sep Automation Framework -INFO - Closing the browser
+2025-01-29 23:58:49,524 - 14 Sep Automation Framework -INFO - Browser closed successfully
+2025-01-29 23:58:49,529 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-29 23:58:49,530 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-29 23:58:49,530 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-29 23:58:57,551 - 14 Sep Automation Framework -INFO - Browser launched successfully
+2025-01-29 23:58:57,553 - 14 Sep Automation Framework -INFO - Maximizing browser window
+2025-01-29 23:58:57,889 - 14 Sep Automation Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-29 23:58:57,891 - 14 Sep Automation Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-29 23:59:00,126 - 14 Sep Automation Framework -INFO - Application opened successfully
+2025-01-29 23:59:00,166 - 14 Sep Automation Framework -INFO - Starting test Search Functionality with product -->Samsung
+2025-01-29 23:59:00,171 - 14 Sep Automation Framework -INFO - Entering search keyword:-->Samsung
+2025-01-29 23:59:00,784 - 14 Sep Automation Framework -INFO - Clicking on the search button.
+2025-01-29 23:59:02,106 - 14 Sep Automation Framework -INFO - Verifying that the product is displayed for keyword: Samsung
+2025-01-29 23:59:02,306 - 14 Sep Automation Framework -INFO - Product Found: {}Samsung SyncMaster 941BW
+2025-01-29 23:59:02,306 - 14 Sep Automation Framework -INFO - Test completed for product:Samsung
+2025-01-29 23:59:02,313 - 14 Sep Automation Framework -INFO - Starting test Search Functionality with product -->iphone
+2025-01-29 23:59:02,317 - 14 Sep Automation Framework -INFO - Entering search keyword:-->iphone
+2025-01-29 23:59:02,535 - 14 Sep Automation Framework -INFO - Clicking on the search button.
+2025-01-29 23:59:02,901 - 14 Sep Automation Framework -INFO - Verifying that the product is displayed for keyword: iphone
+2025-01-29 23:59:03,068 - 14 Sep Automation Framework -INFO - Product Found: {}iPhone
+2025-01-29 23:59:03,068 - 14 Sep Automation Framework -INFO - Test completed for product:iphone
+2025-01-29 23:59:03,069 - 14 Sep Automation Framework -INFO - Starting test Search Functionality with product -->Macbook
+2025-01-29 23:59:03,071 - 14 Sep Automation Framework -INFO - Entering search keyword:-->Macbook
+2025-01-29 23:59:03,122 - 14 Sep Automation Framework -INFO - Clicking on the search button.
+2025-01-29 23:59:03,481 - 14 Sep Automation Framework -INFO - Verifying that the product is displayed for keyword: Macbook
+2025-01-29 23:59:03,585 - 14 Sep Automation Framework -INFO - Product Found: {}MacBook
+2025-01-29 23:59:03,585 - 14 Sep Automation Framework -INFO - Test completed for product:Macbook
+2025-01-29 23:59:03,590 - 14 Sep Automation Framework -INFO - Closing the browser
+2025-01-29 23:59:03,680 - 14 Sep Automation Framework -INFO - Browser closed successfully
+2025-01-29 23:59:03,686 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-29 23:59:03,686 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-29 23:59:03,686 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-29 23:59:11,460 - 14 Sep Automation Framework -INFO - Browser launched successfully
+2025-01-29 23:59:11,461 - 14 Sep Automation Framework -INFO - Maximizing browser window
+2025-01-29 23:59:11,791 - 14 Sep Automation Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-29 23:59:11,795 - 14 Sep Automation Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-29 23:59:13,964 - 14 Sep Automation Framework -INFO - Application opened successfully
+2025-01-29 23:59:13,971 - 14 Sep Automation Framework -INFO - Fetching data from Excel file for data-driven testing
+2025-01-29 23:59:15,050 - 14 Sep Automation Framework -INFO - Total rows: 5, Total columns: 3
+2025-01-29 23:59:15,112 - 14 Sep Automation Framework -INFO - Read data from Excel: [0][0] = Python123@gmail.com
+2025-01-29 23:59:15,148 - 14 Sep Automation Framework -INFO - Read data from Excel: [0][1] = Java@123
+2025-01-29 23:59:15,199 - 14 Sep Automation Framework -INFO - Read data from Excel: [0][2] = Valid
+2025-01-29 23:59:15,256 - 14 Sep Automation Framework -INFO - Read data from Excel: [1][0] = Rohit@yahoo.com
+2025-01-29 23:59:15,356 - 14 Sep Automation Framework -INFO - Read data from Excel: [1][1] = Laxmi
+2025-01-29 23:59:15,408 - 14 Sep Automation Framework -INFO - Read data from Excel: [1][2] = Invalid
+2025-01-29 23:59:15,445 - 14 Sep Automation Framework -INFO - Read data from Excel: [2][0] = Rahul@yahoo.com
+2025-01-29 23:59:15,467 - 14 Sep Automation Framework -INFO - Read data from Excel: [2][1] = Lakshmi
+2025-01-29 23:59:15,500 - 14 Sep Automation Framework -INFO - Read data from Excel: [2][2] = Invalid
+2025-01-29 23:59:15,530 - 14 Sep Automation Framework -INFO - Read data from Excel: [3][0] = laks@yahoo.com
+2025-01-29 23:59:15,584 - 14 Sep Automation Framework -INFO - Read data from Excel: [3][1] = xyz
+2025-01-29 23:59:15,622 - 14 Sep Automation Framework -INFO - Read data from Excel: [3][2] = Invalid
+2025-01-29 23:59:15,654 - 14 Sep Automation Framework -INFO - Read data from Excel: [4][0] = abc123@gmail.com
+2025-01-29 23:59:15,677 - 14 Sep Automation Framework -INFO - Read data from Excel: [4][1] = test@123
+2025-01-29 23:59:15,699 - 14 Sep Automation Framework -INFO - Read data from Excel: [4][2] = Valid
+2025-01-29 23:59:15,700 - 14 Sep Automation Framework -INFO - Data fetching completed
+2025-01-29 23:59:15,715 - 14 Sep Automation Framework -INFO - Starting Test Case: TC04_LoginDDT
+2025-01-29 23:59:15,715 - 14 Sep Automation Framework -INFO - Navigating to the Home Page
+2025-01-29 23:59:15,719 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'
+2025-01-29 23:59:17,553 - 14 Sep Automation Framework -INFO - Attempting login with email: Python123@gmail.com and password: Java@123
+2025-01-29 23:59:19,787 - 14 Sep Automation Framework -INFO - Expected login status: Valid
+2025-01-29 23:59:19,788 - 14 Sep Automation Framework -INFO - Login successful, navigating to logout
+2025-01-29 23:59:20,151 - 14 Sep Automation Framework -INFO - Logout successful
+2025-01-29 23:59:20,151 - 14 Sep Automation Framework -INFO - Test Case Completed: TC04_LoginDDT
+2025-01-29 23:59:20,163 - 14 Sep Automation Framework -INFO - Starting Test Case: TC04_LoginDDT
+2025-01-29 23:59:20,164 - 14 Sep Automation Framework -INFO - Navigating to the Home Page
+2025-01-29 23:59:20,166 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'
+2025-01-29 23:59:20,553 - 14 Sep Automation Framework -INFO - Attempting login with email: Rohit@yahoo.com and password: Laxmi
+2025-01-29 23:59:36,584 - 14 Sep Automation Framework -INFO - Expected login status: Invalid
+2025-01-29 23:59:36,585 - 14 Sep Automation Framework -INFO - Login test passed for invalid credentials
+2025-01-29 23:59:36,586 - 14 Sep Automation Framework -INFO - Test Case Completed: TC04_LoginDDT
+2025-01-29 23:59:36,591 - 14 Sep Automation Framework -INFO - Starting Test Case: TC04_LoginDDT
+2025-01-29 23:59:36,591 - 14 Sep Automation Framework -INFO - Navigating to the Home Page
+2025-01-29 23:59:36,592 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'
+2025-01-29 23:59:37,236 - 14 Sep Automation Framework -INFO - Attempting login with email: Rahul@yahoo.com and password: Lakshmi
+2025-01-29 23:59:53,131 - 14 Sep Automation Framework -INFO - Expected login status: Invalid
+2025-01-29 23:59:53,135 - 14 Sep Automation Framework -INFO - Login test passed for invalid credentials
+2025-01-29 23:59:53,137 - 14 Sep Automation Framework -INFO - Test Case Completed: TC04_LoginDDT
+2025-01-29 23:59:53,145 - 14 Sep Automation Framework -INFO - Starting Test Case: TC04_LoginDDT
+2025-01-29 23:59:53,149 - 14 Sep Automation Framework -INFO - Navigating to the Home Page
+2025-01-29 23:59:53,150 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'
+2025-01-29 23:59:53,541 - 14 Sep Automation Framework -INFO - Attempting login with email: laks@yahoo.com and password: xyz
+2025-01-30 00:00:09,252 - 14 Sep Automation Framework -INFO - Expected login status: Invalid
+2025-01-30 00:00:09,255 - 14 Sep Automation Framework -INFO - Login test passed for invalid credentials
+2025-01-30 00:00:09,255 - 14 Sep Automation Framework -INFO - Test Case Completed: TC04_LoginDDT
+2025-01-30 00:00:09,268 - 14 Sep Automation Framework -INFO - Starting Test Case: TC04_LoginDDT
+2025-01-30 00:00:09,269 - 14 Sep Automation Framework -INFO - Navigating to the Home Page
+2025-01-30 00:00:09,276 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'
+2025-01-30 00:00:09,953 - 14 Sep Automation Framework -INFO - Attempting login with email: abc123@gmail.com and password: test@123
+2025-01-30 00:00:11,321 - 14 Sep Automation Framework -INFO - Expected login status: Valid
+2025-01-30 00:00:11,322 - 14 Sep Automation Framework -INFO - Login successful, navigating to logout
+2025-01-30 00:00:11,888 - 14 Sep Automation Framework -INFO - Logout successful
+2025-01-30 00:00:11,889 - 14 Sep Automation Framework -INFO - Test Case Completed: TC04_LoginDDT
+2025-01-30 00:00:11,909 - 14 Sep Automation Framework -INFO - Closing the browser
+2025-01-30 00:00:12,715 - 14 Sep Automation Framework -INFO - Browser closed successfully
+2025-01-30 00:00:12,726 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-30 00:00:12,726 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-30 00:00:12,726 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-30 00:00:20,438 - 14 Sep Automation Framework -INFO - Browser launched successfully
+2025-01-30 00:00:20,442 - 14 Sep Automation Framework -INFO - Maximizing browser window
+2025-01-30 00:00:20,800 - 14 Sep Automation Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-30 00:00:20,801 - 14 Sep Automation Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-30 00:00:23,451 - 14 Sep Automation Framework -INFO - Application opened successfully
+2025-01-30 00:00:23,507 - 14 Sep Automation Framework -INFO - Test Case: Validate Broken Links started
+2025-01-30 00:00:23,516 - 14 Sep Automation Framework -INFO - Fetching all links and images from the homepage
+2025-01-30 00:00:23,778 - 14 Sep Automation Framework -INFO - Total links including images found: 102
+2025-01-30 00:00:23,779 - 14 Sep Automation Framework -INFO - Filtering active links
+2025-01-30 00:00:24,367 - 14 Sep Automation Framework -INFO - Total active links found: 73
+2025-01-30 00:00:25,150 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-30 00:00:25,808 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-30 00:00:26,195 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/register
+2025-01-30 00:00:26,563 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/login
+2025-01-30 00:00:27,110 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-30 00:00:27,373 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=checkout/cart
+2025-01-30 00:00:27,934 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=checkout/checkout
+2025-01-30 00:00:28,272 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=common/home
+2025-01-30 00:00:28,612 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-30 00:00:28,940 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20_26
+2025-01-30 00:00:29,270 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20_27
+2025-01-30 00:00:29,601 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-30 00:00:29,958 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+2025-01-30 00:00:30,266 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=18_46
+2025-01-30 00:00:30,600 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=18_45
+2025-01-30 00:00:31,166 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+2025-01-30 00:00:31,681 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+2025-01-30 00:00:32,058 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_29
+2025-01-30 00:00:32,419 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_28
+2025-01-30 00:00:32,736 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_30
+2025-01-30 00:00:33,075 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_31
+2025-01-30 00:00:33,424 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_32
+2025-01-30 00:00:33,748 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+2025-01-30 00:00:34,088 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=57
+2025-01-30 00:00:34,480 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=17
+2025-01-30 00:00:34,874 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=24
+2025-01-30 00:00:35,203 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=33
+2025-01-30 00:00:35,539 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+2025-01-30 00:00:35,888 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_43
+2025-01-30 00:00:36,246 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_44
+2025-01-30 00:00:36,605 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_47
+2025-01-30 00:00:36,975 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_48
+2025-01-30 00:00:37,297 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_49
+2025-01-30 00:00:37,655 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_50
+2025-01-30 00:00:38,015 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_51
+2025-01-30 00:00:38,356 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_52
+2025-01-30 00:00:38,692 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_53
+2025-01-30 00:00:39,021 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_54
+2025-01-30 00:00:39,394 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_55
+2025-01-30 00:00:39,732 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_56
+2025-01-30 00:00:40,056 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_38
+2025-01-30 00:00:40,391 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_37
+2025-01-30 00:00:40,734 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_39
+2025-01-30 00:00:41,068 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_40
+2025-01-30 00:00:41,409 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_41
+2025-01-30 00:00:41,747 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_42
+2025-01-30 00:00:42,086 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+2025-01-30 00:00:42,426 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+2025-01-30 00:00:42,782 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+2025-01-30 00:00:43,097 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+2025-01-30 00:00:43,433 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+2025-01-30 00:00:43,759 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+2025-01-30 00:00:44,086 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+2025-01-30 00:00:44,420 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+2025-01-30 00:00:44,792 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+2025-01-30 00:00:45,158 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+2025-01-30 00:00:45,474 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+2025-01-30 00:00:45,734 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/information&information_id=4
+2025-01-30 00:00:45,991 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/information&information_id=6
+2025-01-30 00:00:46,242 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/information&information_id=3
+2025-01-30 00:00:46,497 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/information&information_id=5
+2025-01-30 00:00:46,824 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-30 00:00:47,151 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/return/add
+2025-01-30 00:00:47,412 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/sitemap
+2025-01-30 00:00:47,773 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/manufacturer
+2025-01-30 00:00:48,132 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/voucher
+2025-01-30 00:00:48,465 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=affiliate/login
+2025-01-30 00:00:48,778 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/special
+2025-01-30 00:00:49,357 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-30 00:00:49,897 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/order
+2025-01-30 00:00:50,442 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-30 00:00:50,978 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/newsletter
+2025-01-30 00:00:51,195 - 14 Sep Automation Framework -INFO - Valid link ---> [Status code: ] URL: 301 http://www.opencart.com/
+2025-01-30 00:00:51,201 - 14 Sep Automation Framework -INFO - Number of broken links: 0
+2025-01-30 00:00:51,201 - 14 Sep Automation Framework -INFO - Test Case: Validate Broken Links completed
+2025-01-30 00:00:51,216 - 14 Sep Automation Framework -INFO - Closing the browser
+2025-01-30 00:00:51,316 - 14 Sep Automation Framework -INFO - Browser closed successfully
+2025-01-30 00:00:51,326 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-30 00:00:51,326 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-30 00:00:51,327 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-30 00:00:58,277 - 14 Sep Automation Framework -INFO - Browser launched successfully
+2025-01-30 00:00:58,278 - 14 Sep Automation Framework -INFO - Maximizing browser window
+2025-01-30 00:00:58,623 - 14 Sep Automation Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-30 00:00:58,626 - 14 Sep Automation Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-30 00:01:00,922 - 14 Sep Automation Framework -INFO - Application opened successfully
+2025-01-30 00:01:00,950 - 14 Sep Automation Framework -INFO - Starting test case: testHoverAndClick
+2025-01-30 00:01:00,962 - 14 Sep Automation Framework -INFO - Initialized ActionUtilities
+2025-01-30 00:01:00,973 - 14 Sep Automation Framework -INFO - Initialized HomePage object
+2025-01-30 00:01:00,974 - 14 Sep Automation Framework -INFO - Hovering over the 'Desktops' menu
+2025-01-30 00:01:02,010 - 14 Sep Automation Framework -INFO - Successfully hovered over 'Desktops' menu
+2025-01-30 00:01:02,010 - 14 Sep Automation Framework -INFO - Hovering over 'Show All Desktops' submenu
+2025-01-30 00:01:02,405 - 14 Sep Automation Framework -INFO - Successfully hovered over 'Show All Desktops' submenu
+2025-01-30 00:01:02,406 - 14 Sep Automation Framework -INFO - Clicking on 'Show All Desktops'
+2025-01-30 00:01:03,653 - 14 Sep Automation Framework -INFO - Successfully clicked on 'Show All Desktops'
+2025-01-30 00:01:03,654 - 14 Sep Automation Framework -INFO - Completed test case: testHoverAndClick
+2025-01-30 00:01:03,659 - 14 Sep Automation Framework -INFO - Closing the browser
+2025-01-30 00:01:03,780 - 14 Sep Automation Framework -INFO - Browser closed successfully
+2025-01-30 00:01:03,785 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-30 00:01:03,786 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-30 00:01:03,786 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-30 00:01:11,926 - 14 Sep Automation Framework -INFO - Browser launched successfully
+2025-01-30 00:01:11,928 - 14 Sep Automation Framework -INFO - Maximizing browser window
+2025-01-30 00:01:12,276 - 14 Sep Automation Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-30 00:01:12,279 - 14 Sep Automation Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-30 00:01:14,736 - 14 Sep Automation Framework -INFO - Application opened successfully
+2025-01-30 00:01:14,745 - 14 Sep Automation Framework -INFO - Starting test case: TC07_AddToCartTest
+2025-01-30 00:01:14,745 - 14 Sep Automation Framework -INFO - Navigating to Home Page and searching for 'iPhone'
+2025-01-30 00:01:16,386 - 14 Sep Automation Framework -INFO - 'iPhone' search initiated
+2025-01-30 00:01:16,386 - 14 Sep Automation Framework -INFO - Navigating to Product Page to add 'iPhone' to the cart
+2025-01-30 00:01:16,641 - 14 Sep Automation Framework -INFO - 'iPhone' added to the cart successfully
+2025-01-30 00:01:19,645 - 14 Sep Automation Framework -INFO - Navigating to Cart Page to verify cart details
+2025-01-30 00:01:19,916 - 14 Sep Automation Framework -INFO - Cart details retrieved: 
+2025-01-30 00:01:22,977 - 14 Sep Automation Framework -INFO - Starting test case: TC07_AddToCartTest
+2025-01-30 00:01:22,977 - 14 Sep Automation Framework -INFO - Navigating to Home Page and searching for 'iPhone'
+2025-01-30 00:01:23,661 - 14 Sep Automation Framework -INFO - 'iPhone' search initiated
+2025-01-30 00:01:23,662 - 14 Sep Automation Framework -INFO - Navigating to Product Page to add 'iPhone' to the cart
+2025-01-30 00:01:38,772 - 14 Sep Automation Framework -ERROR - An error occurred during the Add to Cart test: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Add to Cart')]"}
+  (Session info: chrome=132.0.6834.112)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.2', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [edadc03c439bb84aa110abc4524e2946, findElement {using=xpath, value=//span[contains(text(),'Add to Cart')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.112, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: /var/folders/lr/yy6cc25x09d...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61478}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61478/devtoo..., se:cdpVersion: 132.0.6834.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edadc03c439bb84aa110abc4524e2946
+2025-01-30 00:01:38,776 - 14 Sep Automation Framework -INFO - Starting test case: TC07_AddToCartTest
+2025-01-30 00:01:38,777 - 14 Sep Automation Framework -INFO - Navigating to Home Page and searching for 'iPhone'
+2025-01-30 00:01:39,336 - 14 Sep Automation Framework -INFO - 'iPhone' search initiated
+2025-01-30 00:01:39,337 - 14 Sep Automation Framework -INFO - Navigating to Product Page to add 'iPhone' to the cart
+2025-01-30 00:01:54,388 - 14 Sep Automation Framework -ERROR - An error occurred during the Add to Cart test: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Add to Cart')]"}
+  (Session info: chrome=132.0.6834.112)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.2', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [edadc03c439bb84aa110abc4524e2946, findElement {using=xpath, value=//span[contains(text(),'Add to Cart')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.112, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: /var/folders/lr/yy6cc25x09d...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61478}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61478/devtoo..., se:cdpVersion: 132.0.6834.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edadc03c439bb84aa110abc4524e2946
+2025-01-30 00:01:54,396 - 14 Sep Automation Framework -INFO - Starting test case: TC07_AddToCartTest
+2025-01-30 00:01:54,397 - 14 Sep Automation Framework -INFO - Navigating to Home Page and searching for 'iPhone'
+2025-01-30 00:01:54,833 - 14 Sep Automation Framework -INFO - 'iPhone' search initiated
+2025-01-30 00:01:54,834 - 14 Sep Automation Framework -INFO - Navigating to Product Page to add 'iPhone' to the cart
+2025-01-30 00:02:09,859 - 14 Sep Automation Framework -ERROR - An error occurred during the Add to Cart test: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Add to Cart')]"}
+  (Session info: chrome=132.0.6834.112)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.2', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [edadc03c439bb84aa110abc4524e2946, findElement {using=xpath, value=//span[contains(text(),'Add to Cart')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.112, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: /var/folders/lr/yy6cc25x09d...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61478}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61478/devtoo..., se:cdpVersion: 132.0.6834.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edadc03c439bb84aa110abc4524e2946
+2025-01-30 00:02:10,573 - 14 Sep Automation Framework -INFO - Closing the browser
+2025-01-30 00:02:10,712 - 14 Sep Automation Framework -INFO - Browser closed successfully
