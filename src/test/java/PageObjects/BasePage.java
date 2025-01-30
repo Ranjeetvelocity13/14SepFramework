@@ -16,5 +16,7 @@ public class BasePage {
 	}
 	public void Test() {
 		System.out.println("test");
+		System.out.println("test");
+
 	}
 }

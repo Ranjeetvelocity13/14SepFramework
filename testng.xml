@@ -8,7 +8,13 @@
 	<test thread-count="5" name="Test">
 		<parameter name="browser" value="chrome"></parameter>
 		<classes>
+			<class name="testCases.TC01_AccountRegistrationTest" />
 			<class name="testCases.TC02_LoginTest" />
+			<class name="testCases.TC03_SearchTest"/>
+			<class name="testCases.TC04_LoginDDT"/>
+			<class name="testCases.TC05_BrokenLink"/>
+			<class name="testCases.TC06_TestHoverAndClickAction"/>
+			<class name="testCases.TC07_AddToCartTest"/>
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

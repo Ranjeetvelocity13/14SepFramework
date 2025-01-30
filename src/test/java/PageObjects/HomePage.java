@@ -40,6 +40,9 @@ public class HomePage extends BasePage {
 
 	@FindBy(css = "button.btn.btn-default.btn-lg")
 	WebElement searchButton;
+	
+	@FindBy(css = "button.btn.btn-default.btn-lg")
+	WebElement searchButton1;
 
 	public HomePage(WebDriver driver) {
 
@@ -94,6 +97,10 @@ public class HomePage extends BasePage {
 	}
 
 	public void searchProduct(String productName) {
+		searchBox.sendKeys(productName);
+		searchButton.click();
+	}
+	public void searchProduct1(String productName) {
 		searchBox.sendKeys(productName);
 		searchButton.click();
 	}
